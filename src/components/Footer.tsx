@@ -4,10 +4,10 @@ import Link from 'next/link';
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-12">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-4 text-center md:text-left">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Slogan Column */}
-          <div className="space-y-4">
+          <div className="space-y-4 flex flex-col items-center md:items-start">
             <div className="flex items-center gap-4">
               <div className="w-16 h-16 bg-gray-200 rounded-lg flex items-center justify-center">
                 <span className="text-gray-400 text-sm">Logo</span>
