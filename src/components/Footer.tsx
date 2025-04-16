@@ -15,7 +15,7 @@ const Footer = () => {
               <h3 className="text-2xl font-bold text-white">AEG</h3>
             </div>
             <p className="text-gray-400">
-              Italian Craftsmanship, American Innovation
+              Legendary Craftsmanship, American Innovation
             </p>
             <div className="flex space-x-4">
               <a href="https://www.instagram.com/autoequitygroupx" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#006400] transition-colors">
